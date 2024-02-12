@@ -11,7 +11,7 @@ My First Repository
 </ol>
 
 [Death's Game](#Death's-game)
-<h5><i> After struggling for seven years without securing a stable job, ==Choi Yi Jae== becomes engulfed in despair and hopelessness. Believing that ending his life would be the solution, ==Yi Jae== is met with a surprise when he meets the entity known as Death at the gateway to Hell. ==Death== assigns him a unique punishment: ==Yi Jae== must endure death in 12 different bodies. To avoid his fate in Hell, he must find a way to survive.</i></h5>
+<h5><i> After struggling for seven years without securing a stable job, <mark>Choi Yi Jae</mark> becomes engulfed in despair and hopelessness. Believing that ending his life would be the solution, ==Yi Jae== is met with a surprise when he meets the entity known as Death at the gateway to Hell. ==Death== assigns him a unique punishment: ==Yi Jae== must endure death in 12 different bodies. To avoid his fate in Hell, he must find a way to survive.</i></h5>
 
 
 # John Michael aka Toshi's favorite Series/Movies are of follows:
