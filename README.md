@@ -1,7 +1,7 @@
 # AppDev_4-2
 My First Repository
 
-# My Favorite Series?MOvies are the following:
+# My Favorite Series/Movies are the following:
 
 <ol>
   <li> Death's Game </li>
